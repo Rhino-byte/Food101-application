@@ -25,14 +25,15 @@ Project structure (key files)
 - `names.json`: Food-101 class name mapping (required)
 
 Setup
-Prereqs: **Python 3.9+ (tested with 3.11) and Git.**
+Prereqs: **Python  (tested with version 3.9) and Git.**
+       : Make sure to have conda installed
 
 1) Clone and install
 ```bash
 git clone <this-repo-url>
 cd FoodApp
-python -m venv .venv
-.venv\\Scripts\\activate
+conda create -n foodapp python=3.9
+conda activate foodapp
 pip install -r requirements.txt
 ```
 
