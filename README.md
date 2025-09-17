@@ -25,7 +25,7 @@ Project structure (key files)
 - `names.json`: Food-101 class name mapping (required)
 
 Setup
-Prereqs: Python 3.9+ (tested with 3.11) and Git.
+Prereqs: **Python 3.9+ (tested with 3.11) and Git.**
 
 1) Clone and install
 ```bash
