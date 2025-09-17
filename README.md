@@ -61,16 +61,16 @@ Usage
 3. Click “Classify Image”. A green alert shows the prediction and confidence, then fades after ~10s.
 
 Dataset: Food-101
-- Overview: `https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/`
-- Classes list (101 categories): `https://data.vision.ee.ethz.ch/cvl/food-101/meta/classes.txt`
-- Alternative mirror (Kaggle): `https://www.kaggle.com/datasets/dansbecker/food-101`
+-  [Overview:](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)
+-  [Classes list (101 categories)](https://data.vision.ee.ethz.ch/cvl/food-101/meta/classes.txt)
+- [Alternative mirror (Kaggle):](https://www.kaggle.com/datasets/dansbecker/food-101)
 
 Example dishes (learn more)
-- Paella: `https://en.wikipedia.org/wiki/Paella`
-- Crème brûlée: `https://en.wikipedia.org/wiki/Cr%C3%A8me_br%C3%BBl%C3%A9e`
-- Bibimbap: `https://en.wikipedia.org/wiki/Bibimbap`
-- Sashimi: `https://en.wikipedia.org/wiki/Sashimi`
-- Margherita pizza: `https://en.wikipedia.org/wiki/Pizza_Margherita`
+- Paella:  [https://en.wikipedia.org/wiki/Paella]
+- Crème brûlée: [https://en.wikipedia.org/wiki/Cr%C3%A8me_br%C3%BBl%C3%A9e]
+- Bibimbap: [https://en.wikipedia.org/wiki/Bibimbap]
+- Sashimi: [https://en.wikipedia.org/wiki/Sashimi]
+- Margherita pizza: [https://en.wikipedia.org/wiki/Pizza_Margherita]
 
 Notes
 - Uploaded files are stored under `uploads/`. You can clean this folder periodically.
