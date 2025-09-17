@@ -2,7 +2,7 @@
 
 This is a Flask web app that classifies food images into one of the Food-101 categories using a TensorFlow/Keras model.
 
-You can check the deployed app through hugging face (FoodApp)[https://huggingface.co/spaces/bushman254/FoodImageClassifier] have fun🥳🚀🤖
+You can check the deployed app through huggingface [FoodApp](https://huggingface.co/spaces/bushman254/FoodImageClassifier) have fun🥳🚀🤖
 
 Features
 - Upload any food image and get a predicted class with confidence
